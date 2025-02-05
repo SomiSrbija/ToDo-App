@@ -17,7 +17,7 @@ A simple and easy-to-use to-do list app built with Python and PyQt5. Manage task
    ```
    git clone https://github.com/yourusername/todo-app.git
    cd todo-app
-```
+   ```
 
 2. Install dependencies:
    ```bash
